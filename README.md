@@ -9,9 +9,11 @@ Exploratory Data Analysis (EDA): Perform SQL queries to explore Amazon's product
 Sales Analysis: Analyze sales trends over time, identify top-performing products, and evaluate seasonal demand patterns.
 Customer Insights: Extract insights on customer preferences, review sentiment analysis, and identify key customer segments.
 Visualization Integration: Use SQL queries to create meaningful visualizations in tools like Power BI or Tableau (not included in this repository).
+
 Technologies Used:
 SQL (MySQL)
 Database Management System (DBMS)
+
 Project Structure:
 SQL Queries: A collection of SQL scripts for data cleaning, transformation, and analysis.
 Data: Sample Amazon datasets (product, sales, and customer data).
